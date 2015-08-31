@@ -1,5 +1,5 @@
 {
-  "name": "bigquery-streamer",
+  "name": "redis-bigquery",
   "version": "1.0.0",
   "description": "A BigQuery streamer for streaming data from Redis",
   "main": "lib/bigquery-streamer.js",
